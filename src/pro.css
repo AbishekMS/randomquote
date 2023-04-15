@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap');
+
+#innerBox{
+    padding: 5% 5% 7% 11%;
+   background-color: #060606
+}
+#header{
+    background-image: url("assets/black-wall.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      
+}
+  
+  h3{
+    font-size: 20px;
+    margin: 5px 0;
+    
+  }
+  #text{
+    font-family: "Fira";
+    font-size: 20px;
+  }
+  
+  
+  .main {
+      display: flex;
+      width: 100vw;
+      height: 100vh;
+      justify-content: center;
+      align-items: center;
+      background-color: #9139b5;
+  }
+  
+  #quote-box {
+      width: 350px;
+      padding: 0px;
+        
+      background-color:white;
+     margin-left: 39%;
+     margin-top: 2%;
+
+     
+  }
+  
+  .actions {
+      display: flex;
+      align-items: center;
+  }
+  
+  .main .button {
+      background-color: #8c898c;
+      border-color: #f1ecf3;
+      
+      border-radius: 0px;
+      padding: 2px 1px;
+      cursor: pointer;
+      color: #ffffff;
+  }
+  
+  #tweet-quote {
+    margin-left: 15px;
+     
+      text-decoration: none;
+  }
+ h3 ,p{
+    color: rgb(255, 255, 255);
+  }
+  button{
+    background-color: skyblue;
+  }
+
+  #author{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
