@@ -1,4 +1,4 @@
-
+//this project is for 25+5 clock ,,,for RandomQuote plz check in project.js file
 import React from 'react';
 import  {useState ,useEffect} from 'react'; 
 import './App.css';
